@@ -1,12 +1,7 @@
--- Create the database
-CREATE DATABASE burgers_db;
-USE `burgers_db`;
+-- Create the databas
+
+DROP DATABASE IF EXISTS blogger_db;
+CREATE DATABASE blogger_db;
+USE `blogger_db`;
 
 -- Create the table burgers
-CREATE TABLE `burgers`
-(
-  `id` INT NOT NULL AUTO_INCREMENT,
-  `burger_name` VARCHAR(255) NOT NULL,
-  `devoured` BOOLEAN DEFAULT false,
-  PRIMARY KEY (id)
-);
