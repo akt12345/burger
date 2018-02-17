@@ -1,0 +1,35 @@
+body {
+    background-color: #000;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 90px;
+    font-family: 'Signika', sans-serif;
+    text-shadow: #000;
+    font-weight: 400;
+}
+
+
+.jumbotron {
+    padding-top: 1%;
+    background-color: transparent !important;
+}
+
+
+
+img {
+    margin-top: 2%;
+}
+
+
+p {
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 16pt;
+}
+
+.submitFont {
+    color: #fff;
+}
