@@ -13,15 +13,12 @@ I created a burger logger with MySQL, Node, Express, Handlebars and a homemade O
 ## Home Page
 <a href="burgerApp.jpg" target="_blank"><img src="burgerApp.jpg" alt="Burger Application" style="max-width:100%;"></a>
 
----
 
 ## See it online at:
 https://afternoon-plains-33371.herokuapp.com/index
 
----
 
 ## Technologies Used:
-
 * Node
 
 * Express
@@ -34,7 +31,6 @@ https://afternoon-plains-33371.herokuapp.com/index
 
 * npm packages: express, body-parser
 
----
 
 ## Author
 Abby Thoresen copyright 2018
