@@ -1,17 +1,19 @@
 # Burger Application
 
+---
+
 ## Overview
 
 
 I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Handlebars generated my HTML.
 
-[x] Restaurant app that lets users input the names of burgers they'd like to eat.
+* Restaurant app that lets users input the names of burgers they'd like to eat.
 
-[x] Whenever a user submits a burger's name,  app displays the burger on the left side of the page -- waiting to be devoured.
+* Whenever a user submits a burger's name,  app displays the burger on the left side of the page -- waiting to be devoured.
 
-[x] Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
+* Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
-[x] Stores every burger in a database, whether devoured or not.
+* Stores every burger in a database, whether devoured or not.
 
 ## Home Page
 <a href="burgerApp.jpg" target="_blank"><img src="burgerApp.jpg" alt="Burger Application" style="max-width:100%;"></a>
