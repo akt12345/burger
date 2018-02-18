@@ -18,7 +18,7 @@ var orm = {
         });
     },
 
-    //insertOne
+    //insertOne this is the connection to database
     insertOne: function(burger_name, callback) {
         connection.query('INSERT INTO burgers SET ?', {
             burger_name: burger_name,

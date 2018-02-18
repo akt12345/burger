@@ -1,7 +1,7 @@
--- Create the databas
+-- Create the database
 
-DROP DATABASE IF EXISTS blogger_db;
-CREATE DATABASE blogger_db;
-USE `blogger_db`;
+DROP DATABASE IF EXISTS burger_db;
+CREATE DATABASE burger_db;
+USE `burger_db`;
 
 -- Create the table burgers
